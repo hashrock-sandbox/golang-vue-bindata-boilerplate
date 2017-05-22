@@ -72,3 +72,4 @@ typings/
 .env
 
 bindata.go
+static/build.js
